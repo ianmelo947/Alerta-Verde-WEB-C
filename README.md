@@ -1,4 +1,4 @@
-# Alerta Verde - Agricultura de Precisão (DevOps Edition)
+# Alerta Verde - Agricultura de Precisão
 
 Plataforma de monitoramento agrícola e simulação de colheita utilizando **Computação de Alta Performance (HPC)** e arquitetura de microsserviços em nuvem.
 
